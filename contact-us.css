@@ -1,0 +1,183 @@
+.fiveth-page{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    padding-top: 7.688rem;
+}
+.container-contant{
+    height: 29.688rem;
+    width: 53.875rem;
+    border: 0.188rem solid #FF0000;
+    border-radius: 0.625rem;
+    background-color: black;
+    margin-top: 7.688rem;
+    margin-left: 18.063rem;
+}
+.contact{
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    margin-top: 2.25rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.contact-talk{
+    font-size: 2.25rem;
+    font-family: sans-serif;
+    color: #FF0000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#phone{
+    font-size: 1.5rem;
+    color: #FF0000;
+    display: flex;
+    flex-direction: row;
+    margin-left: 17rem;
+    margin-top: 6.688rem;
+}
+#phone p{
+    color: white;
+    margin-left: 2.438rem;
+}
+#email{
+    font-size: 1.5rem;
+    color: #FF0000;
+    display: flex;
+    flex-direction: row;
+    margin-left: 17rem;
+    margin-top: 3.625rem;
+}
+#email p{
+    color: white;
+    margin-left: 2.438rem;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer{
+    background-color: #111;
+    margin-top: 8.5rem;
+}
+.footerContiner{
+    width: 100%;
+    padding: 70px 30px 20px;
+}
+.socialIcons{
+    display: flex;
+    justify-content: center;
+}
+.socialIcons a{
+    text-decoration: none;
+    padding: 0.625rem;
+    background-color: white;
+    margin: 0.625rem;
+    border-radius: 50%;
+}
+.socialIcons a i{
+    font-size: 2em;
+    color: black;
+    opacity: 0.9;
+}
+/* hover effects on social media Icons */
+.socialIcons a:hover{
+    background-color: #111;
+    transition: 0.5s;
+
+}
+.socialIcons a:hover i{
+   color: white;
+   transition: 0.5s;
+}
+.footerNav{
+   margin: 30px 0;
+}
+.footerNav ul{
+   display: flex;
+   justify-content: center;
+   list-style-type: none;
+}
+.footerNav ul li a{
+   color: white;
+   margin: 1.25rem;
+   text-decoration: none;
+   font-size: 1.3em;
+   opacity: 0.7;
+   transition: 0.5s;
+}
+.footerNav ul li a:hover{
+   opacity: 1;
+}
+.footerbottom{
+   background-color: #000;
+   padding: 1.25rem;
+   text-align: center;
+}
+.footerbottom p{
+   color: white;
+}
+.Designer{
+   opacity: 0.7;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   font-weight: 400;
+   margin: 0px 5px;
+}
+
+/*--------------------Mobile-------------------*/
+
+.connection{
+    height: 100vh;
+    width: 100%;
+    background-color: #000;
+}
+.mobile-contact{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: white;
+    padding-top: 2.625rem;
+    margin-left: 3.313rem;
+    font-family: sans-serif;
+}
+.contact-container{
+    border: #FF0000 2px solid;
+    height: 35.375rem;
+    width: 22.688rem;
+    margin-left: 2.063rem;
+    margin-top: 7.125rem;
+}
+#mobile-talk{
+    margin-top: 7.125rem;
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.redconsole{
+    color: #FF0000;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 3.125rem;
+    
+}
+.whiteconsole{
+    font-size: 1.5rem;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+

@@ -1,0 +1,118 @@
+.fourth-page{
+    height: 100vh;
+    width: 100%;
+    background-color:black;
+}
+.first-line p{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #FF0000;
+    padding-top: 11.125rem;
+    margin-left: 38.875rem;
+}
+.second-line p{
+    font-size: 3rem;
+    color: white;
+    margin-left: 26.375rem;
+}
+.third-line p{
+    font-size: 1.5rem;
+    color: white;
+    margin-left: 24.5rem;
+}
+.three-container{
+    display: flex;
+    flex-direction: row;
+}
+.three-container div{
+    height: 20.375rem;
+    width: 23.813rem;
+    border: 0.188rem solid #FF0000;
+    margin-left: 5.063rem;
+    margin-top: 9.813rem;
+    background-color: white;
+    border-radius: 0.625rem;
+}
+#iteams{
+    font-size: 1.875rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1.375rem;
+    margin-left: 1.875rem;
+}
+.inner-line{
+    font-size: 1.188rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3.625rem;
+    margin-left: 1.875rem;
+}
+.learn-line{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    margin-top: 7.438rem;
+    margin-left: 1.875rem;
+}
+
+/*--------------------Mobile-------------------*/
+
+.Servicess{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+.namesecond{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: white;
+    padding-top: 2.625rem;
+    margin-left: 3.313rem;
+    font-family: sans-serif;
+}
+.namethree{
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #FF0000;
+    margin-top: 1.813rem;
+}
+.two-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.namefour{
+    font-size: 1rem;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.onebox{
+    height: 17.375rem;
+    width: 20.5rem;
+    border: 0.188rem solid #FF0000;
+    background-color: white;
+    border-radius: 0.625rem;
+    margin-left: 3.25rem;
+    margin-top: 1.875rem;
+}
+.topline{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 2.813rem;
+    margin-left: 1.563rem;
+}
+.lowline{
+    font-size: 1.25rem;
+    font-family: sans-serif;
+    margin-top: 2.313rem;
+    margin-left: 1.563rem;
+}
+.morelow{
+    font-size: 1rem;
+    font-family: sans-serif;
+    margin-top: 3.938rem;
+    margin-left: 1.563rem;
+}

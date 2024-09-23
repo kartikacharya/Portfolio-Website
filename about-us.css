@@ -1,0 +1,86 @@
+.third-page{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+.first-part{
+  margin-left: 10.375rem;
+  margin-top: 15.438rem;
+}
+.about-section p{
+    font-size: 2.25rem;
+    font-weight: bold;
+    color: white;
+    margin-top: 19.188rem;
+    margin-left: 6.938rem;
+}
+.main-name p{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: red;
+    margin-left: 6.938rem;
+}
+.list-points p{
+    font-size: 1.25rem;
+    color: white;
+    margin-left: 6.938rem;
+}
+.button-3{
+    height: 2.5rem;
+    width: 10.188rem;
+    padding: 0.313rem;
+    border: 0.125rem solid black;
+    font-size: 1.25rem;
+    background-color: red;
+    border-radius: 1.875rem;
+    margin-left: 6.938rem;
+    margin-top: 2rem;
+    margin-bottom: 19.188rem;
+}
+
+/*--------------------Mobile-------------------*/
+
+.AboutMe{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+.aboutaim{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: white;
+    padding-top: 2.688rem;
+    margin-left: 3.125rem;
+    font-family: sans-serif;
+}
+.meaim{
+    font-size: 2.5rem;
+    color: #FF0000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: sans-serif;
+    margin-top: 8.125rem;
+}
+.pracitomal{
+    color: white;
+    font-size: 1.25rem;
+    margin-top: 2.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.button-5{
+    height: 2.5rem;
+    width: 10.188rem;
+    padding: 0.313rem;
+    border: 0.125rem solid black;
+    font-size: 1.25rem;
+    background-color: red;
+    border-radius: 1.875rem;
+    margin-top: 4.313rem;
+    margin-left: 8.438rem;
+}
